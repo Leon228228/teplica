@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\DELL\source\repos\mssql\TeplicaIS\TeplicaIS\obj\Debug\
+C:\Users\DELL\source\repos\mssql\TeplicaIS\teplica\TeplicaIS\obj\Debug\
 TeplicaIS
 none
 false
 DEBUG;TRACE
-C:\Users\DELL\source\repos\mssql\TeplicaIS\TeplicaIS\App.xaml
-22095754870
+C:\Users\DELL\source\repos\mssql\TeplicaIS\teplica\TeplicaIS\App.xaml
+51016482809
 
-8-985622764
-127-308898130
-Admin.xaml;MainWindow.xaml;
+11287014581
+127-1838148072
+Admin.xaml;MainWindow.xaml;PageHeat.xaml;water.xaml;Work.xaml;
 
 False
 

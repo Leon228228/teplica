@@ -1,6 +1,8 @@
-﻿using System;
-using Dapper;
+﻿using Dapper;
+using System.Data;
+using System.Data.SqlClient;
 using System.Collections.Generic;
+
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,7 +14,7 @@ namespace TeplicaIS.Database
         string strConnect = "Persist Security Info=False;Trusted_Connection=True;database=Teplica;server=DESKTOP-PFVV43D;Encrypt=True;TrustServerCertificate=true;";
 
 
-        public IDbConnection Connection
+        IDbConnection Connection
         {
             get
             {
@@ -29,13 +31,17 @@ namespace TeplicaIS.Database
         {
             using (IDbConnection conn = Connection)
             {
-                var sqlQuery = "INSERT INTO person (name, email, pass) VALUES (@name, @email, @pass)";
+                var sqlQuery = "INSERT INTO person (name, surname, patronymic, login, password, role_id)" +
+                    " VALUES (@name, @surname, @patronymic, @login, @password, @role_id)";
 
                 var parameters = new
                 {
-                    name = person.Name,
-                    email = person.email,
-                    pass = person.pass
+                    name = person.name,
+                    surname = person.surname,
+                    patronymic = person.patronymic,
+                    login = person.login,
+                    password = person.password,
+                    role_id = person.role_id
                 };
 
 

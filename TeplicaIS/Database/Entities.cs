@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace TeplicaIS.Database
 {
     internal class Entities
+
     {
     }
-
     public class role
     {
         public int id { get; set; }

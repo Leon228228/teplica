@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\pageheat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\pageheat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|c:\\users\\dell\\source\\repos\\mssql\\teplicais\\teplica\\teplicais\\database\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\database\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|c:\\users\\dell\\source\\repos\\mssql\\teplicais\\teplica\\teplicais\\database\\dbadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\database\\dbadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|c:\\users\\dell\\source\\repos\\mssql\\teplicais\\teplica\\teplicais\\water.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\water.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\water.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\water.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\pageheat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\pageheat.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\water_valve.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\water_valve.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\work.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\work.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\teplicais\\work.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C5F7ED-2938-4646-AD44-0C88DAECD35C}|TeplicaIS\\TeplicaIS.csproj|solutionrelative:teplicais\\work.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "water.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\water.xaml",
+              "RelativeDocumentMoniker": "TeplicaIS\\water.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\water.xaml",
+              "RelativeToolTip": "TeplicaIS\\water.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T07:04:33.548Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Database\\Entities.cs",
+              "RelativeDocumentMoniker": "TeplicaIS\\Database\\Entities.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Database\\Entities.cs",
+              "RelativeToolTip": "TeplicaIS\\Database\\Entities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:12:49.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBadapter.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Database\\DBadapter.cs",
+              "RelativeDocumentMoniker": "TeplicaIS\\Database\\DBadapter.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Database\\DBadapter.cs",
+              "RelativeToolTip": "TeplicaIS\\Database\\DBadapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:12:48.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "water.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\water.xaml.cs",
+              "RelativeDocumentMoniker": "TeplicaIS\\water.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\water.xaml.cs",
+              "RelativeToolTip": "TeplicaIS\\water.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:47:11.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TeplicaIS\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TeplicaIS\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:49:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TeplicaIS\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\MainWindow.xaml",
+              "RelativeToolTip": "TeplicaIS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T07:55:15.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PageHeat.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\PageHeat.xaml",
+              "RelativeDocumentMoniker": "TeplicaIS\\PageHeat.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\PageHeat.xaml",
+              "RelativeToolTip": "TeplicaIS\\PageHeat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T07:31:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageHeat.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\PageHeat.xaml.cs",
+              "RelativeDocumentMoniker": "TeplicaIS\\PageHeat.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\PageHeat.xaml.cs",
+              "RelativeToolTip": "TeplicaIS\\PageHeat.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:23:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "water_valve.png",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\water_valve.png",
+              "RelativeDocumentMoniker": "TeplicaIS\\water_valve.png",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\water_valve.png",
+              "RelativeToolTip": "TeplicaIS\\water_valve.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-17T11:41:19.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\App.xaml",
+              "RelativeDocumentMoniker": "TeplicaIS\\App.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\App.xaml",
+              "RelativeToolTip": "TeplicaIS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T07:56:16.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Admin.xaml",
+              "RelativeDocumentMoniker": "TeplicaIS\\Admin.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Admin.xaml",
+              "RelativeToolTip": "TeplicaIS\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-14T07:56:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Work.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Work.xaml",
+              "RelativeDocumentMoniker": "TeplicaIS\\Work.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Work.xaml",
+              "RelativeToolTip": "TeplicaIS\\Work.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-24T14:31:22.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Work.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Work.xaml.cs",
+              "RelativeDocumentMoniker": "TeplicaIS\\Work.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\mssql\\TeplicaIS\\teplica\\TeplicaIS\\Work.xaml.cs",
+              "RelativeToolTip": "TeplicaIS\\Work.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T14:48:12.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
